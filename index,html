@@ -1,1 +1,9 @@
-
+<h1>♻ AI Recycling Scanner</h1>
+  
+<button onclick="init()">Start Scanner</button>
+  
+<div id="webcam-container"></div>
+<div id="label-container"></div>
+  
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest"></script>
+<script src="https://c
